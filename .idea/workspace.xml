@@ -5,114 +5,166 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1c3d93-fa8b-4946-add4-6c6036c31e96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/StreamMedian.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/p102.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/p103.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p112.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p113.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p114.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p115.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p116.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p1211.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p1213.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p122.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p123.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p124.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p125.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p126.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p127.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p128.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p129.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p131.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p132.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p133.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1410.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1411.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1412.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p142.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p143.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p144.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p145.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p146.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p147.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p148.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p149.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/ListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p152.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p153.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p154.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p22.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p23.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p24.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p25.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p26.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p310.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p312.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p32.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p33.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p34.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p35.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p36.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p37.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p38.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p39.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/Node.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p42.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p43.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p44.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p45.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p46.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p48.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p52.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p53.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p54.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p55.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/Util.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p611.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p62.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p63.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p64.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p65.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p66.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p67.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p69.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/Node.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p72.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p73.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p74.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p75.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p77.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/TreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p811.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p82.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p83.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p84.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p85.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p86.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p87.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p88.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p89.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/TreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p92.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p93.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p94.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p95.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p96.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p2_sliding_window/p22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p2_sliding_window/p23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p2_sliding_window/p24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p2_sliding_window/p25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p2_sliding_window/p26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p33.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p34.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p37.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p38.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p3_two_pointers/p39.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p4_fast_slow_pointers/p42.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p4_fast_slow_pointers/p43.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p4_fast_slow_pointers/p44.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p4_fast_slow_pointers/p45.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p5_merge_intervals/p52.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p5_merge_intervals/p53.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p5_merge_intervals/p54.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p5_merge_intervals/p55.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p6_cyclic_sort/p62.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p6_cyclic_sort/p63.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p82.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p83.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p84.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p85.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p86.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice1/p8_tree_breath_first_search/p87.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p22.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p23.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p25.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p26.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p32.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p33.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p34.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p35.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p36.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p37.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p38.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p39.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p42.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p43.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p44.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p45.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p52.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p53.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p54.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p55.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p62.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p63.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p64.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p65.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p66.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p72.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p73.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p74.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p82.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p83.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p84.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p85.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p86.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p87.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p88.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/StreamMedian.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p10_two_heaps/StreamMedian.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/p102.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p10_two_heaps/p102.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p10_two_heaps/p103.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p10_two_heaps/p103.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p112.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p11_subsets/p112.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p113.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p11_subsets/p113.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p114.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p11_subsets/p114.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p115.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p11_subsets/p115.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p11_subsets/p116.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p11_subsets/p116.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p1211.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p1211.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p1213.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p1213.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p122.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p122.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p123.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p123.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p124.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p124.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p125.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p125.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p126.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p126.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p127.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p127.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p128.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p128.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p12_modified_binary_search/p129.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p12_modified_binary_search/p129.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p131.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p13_bitwise_xor/p131.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p132.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p13_bitwise_xor/p132.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p13_bitwise_xor/p133.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p13_bitwise_xor/p133.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1410.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p1410.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1411.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p1411.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p1412.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p1412.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p142.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p142.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p143.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p143.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p144.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p144.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p145.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p145.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p146.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p146.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p147.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p147.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p148.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p148.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p14_top_k_elements/p149.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p14_top_k_elements/p149.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/ListNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p15_kway_merge/ListNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p152.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p15_kway_merge/p152.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p153.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p15_kway_merge/p153.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p15_kway_merge/p154.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p15_kway_merge/p154.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p23.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p2_sliding_window/p26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p2_sliding_window/p26.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p310.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p310.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p312.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p312.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p32.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p32.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p33.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p33.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p34.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p34.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p35.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p35.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p36.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p36.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p37.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p37.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p38.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p38.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p3_two_pointers/p39.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p3_two_pointers/p39.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/Node.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Node2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p42.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p42.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p43.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p43.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p44.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p44.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p45.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p45.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p46.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p46.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p4_fast_slow_pointers/p48.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p4_fast_slow_pointers/p48.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p52.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p52.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p53.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p53.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p54.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p54.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p5_merge_intervals/p55.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals/p55.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p611.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p611.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p62.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p62.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p63.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p63.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p64.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p64.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p65.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p65.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p66.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p66.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p67.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p67.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p6_cyclic_sort/p69.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort/p69.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/Node.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Node.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p72.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p72.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p73.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p73.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p74.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p74.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p75.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p75.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p7_inplace_reversal_of_a_linked_list/p77.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list/p77.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/TreeNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/TreeNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p811.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p811.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p82.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p82.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p83.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p83.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p84.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p84.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p85.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p85.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p86.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p86.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p87.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p87.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p88.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p88.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p8_tree_breath_first_search/p89.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search/p89.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/TreeNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/TreeNode2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p92.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p9_tree_depth_first_search/p92.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p93.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p9_tree_depth_first_search/p93.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p94.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p9_tree_depth_first_search/p94.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p95.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p9_tree_depth_first_search/p95.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/p9_tree_depth_first_search/p96.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sample/p9_tree_depth_first_search/p96.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,54 +195,69 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nguyen/IdeaProjects/Educative4/src/main/kotlin/sample/p8_tree_breath_first_search"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample/p8_tree_breath_first_search" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample/p7_inplace_reversal_of_a_linked_list" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/practice1/p6_cyclic_sort" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample/p5_merge_intervals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample/p6_cyclic_sort" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/sample" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="p9_tree_depth_first_search" />
       <recent name="p8_tree_breath_first_search" />
       <recent name="p7_inplace_reversal_of_a_linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.P154Kt">
-    <configuration name="P1410Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p14_top_k_elements.P1410Kt" />
+  <component name="RunManager" selected="Kotlin.P88Kt">
+    <configuration name="P86Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.p8_tree_breath_first_search.P86Kt" />
       <module name="Educative4.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1411Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p14_top_k_elements.P1411Kt" />
+    <configuration name="P86Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.p8_tree_breath_first_search.P86Kt" />
       <module name="Educative4.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P152Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p15_kway_merge.P152Kt" />
+    <configuration name="P87Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.p8_tree_breath_first_search.P87Kt" />
       <module name="Educative4.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P153Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p15_kway_merge.P153Kt" />
+    <configuration name="P87Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.p8_tree_breath_first_search.P87Kt" />
       <module name="Educative4.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P154Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p15_kway_merge.P154Kt" />
+    <configuration name="P88Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.p8_tree_breath_first_search.P88Kt" />
       <module name="Educative4.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.P154Kt" />
-        <item itemvalue="Kotlin.P153Kt" />
-        <item itemvalue="Kotlin.P152Kt" />
-        <item itemvalue="Kotlin.P1411Kt" />
-        <item itemvalue="Kotlin.P1410Kt" />
+        <item itemvalue="Kotlin.P88Kt" />
+        <item itemvalue="Kotlin.P87Kt" />
+        <item itemvalue="Kotlin.P87Kt (1)" />
+        <item itemvalue="Kotlin.P86Kt (1)" />
+        <item itemvalue="Kotlin.P86Kt" />
       </list>
     </recent_temporary>
   </component>
